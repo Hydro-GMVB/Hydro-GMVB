@@ -6,8 +6,8 @@
 <p>Love to learn about unexplored areas and help developing projects</p>
 
 <div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Hydro-GMVB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hydro-GMVB&layout=compact&langs_count=16&theme=dark"/>
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Hydro-GMVB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hydro-GMVB&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <h2>Coding Languages</h2>
